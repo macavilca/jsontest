@@ -1,8 +1,25 @@
 {
-  "posts": [
+  "Users": [
     {
-      "id": 1,
-      "title": "hello"
+      "SybaseLogin": 1,
+      "PermissionGroups": [
+         {"Value":"Office_Read"}
+      ]
+    },
+    {
+      "SybaseLogin": 2,
+      "PermissionGroups": [
+         {"Value":"Office_Read"},
+         {"Value":"Office_Write"},
+         {"Value":"Office_Execute"}
+      ]
+    },
+    {
+      "SybaseLogin": 2,
+      "PermissionGroups": [
+         {"Value":"Office_Read"},
+         {"Value":"Office_Write"}
+      ]
     }
   ],
   "profile": {
