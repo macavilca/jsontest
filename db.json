@@ -2,14 +2,14 @@
   "Users": [
     {
       "SybaseLogin": "jmac",
-      "FullName","Julio Mac"
+      "FullName": "Julio Mac"
       "PermissionGroups": [
          {"Value":"Office_Read"}
       ]
     },
     {
       "SybaseLogin": "jsmith",
-      "FullName","Joe Smith"
+      "FullName": "Joe Smith"
       "PermissionGroups": [
          {"Value":"Office_Read"},
          {"Value":"Office_Write"},
@@ -18,7 +18,7 @@
     },
     {
       "SybaseLogin": "jdoe",
-      "FullName","John Doe"
+      "FullName": "John Doe"
       "PermissionGroups": [
          {"Value":"Office_Read"},
          {"Value":"Office_Write"}
