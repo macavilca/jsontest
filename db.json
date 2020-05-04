@@ -27,5 +27,31 @@
   ],
   "token": {
     "token": "asldkfjasdkiasdlkfal;sasdfkahgadhgafdhgahdfgueqrhgkjdfnkndsfjkhadjfkghalkjla;skjfas;f=="
-  }
+  },
+  "UsersAlt": [
+    { 
+      "SybaseLogin": "jmac",
+      "FullName": "Julio Mac",
+      "PermissionGroups": [
+         {"SecGrpName":"Office_Read","SecGrpId":"a"}
+      ]
+    },
+    { 
+      "SybaseLogin": "jsmith",
+      "FullName": "Joe Smith",
+      "PermissionGroups": [
+         {"SecGrpName":"Office_Read","SecGrpId":"a"},
+         {"SecGrpName":"Office_Write","SecGrpId":"b"},
+         {"SecGrpName":"Office_Execute","SecGrpId":"c"}
+      ]
+    },
+    { 
+      "SybaseLogin": "jdoe",
+      "FullName": "John Doe",
+      "PermissionGroups": [
+         {"SecGrpName":"Office_Read","SecGrpId":"a"},
+         {"SecGrpName":"Office_Write","SecGrpId":"b"}
+      ]
+    }
+  ]
 }
