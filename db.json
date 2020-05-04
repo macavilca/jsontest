@@ -28,7 +28,8 @@
   "token": {
     "token": "asldkfjasdkiasdlkfal;sasdfkahgadhgafdhgahdfgueqrhgkjdfnkndsfjkhadjfkghalkjla;skjfas;f=="
   },
-  "UsersAlt": [
+  "UsersAlt":[
+  "Users": [
     { 
       "SybaseLogin": "jmac",
       "FullName": "Julio Mac",
@@ -54,4 +55,5 @@
       ]
     }
   ]
+ ]
 }
