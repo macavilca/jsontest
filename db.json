@@ -25,8 +25,8 @@
       ]
     }
   ],
-  "jmac":[
-  {"PermissionGroup":[
+  "jmac.Office_Read":[
+  {"PermissionGroups":[
     "Office_Read"   
     ]
    }
