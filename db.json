@@ -61,5 +61,67 @@
       ]
     }
   ]
+ },
+ "CSIrole":[
+ {
+  "RoleId":111,
+  "RoleName":"Tester",
+  "RoleType":"DB",
+  "members":[
+	{"roleUserId":12345,
+	 "user":{
+	   "UserId":100,
+	   "UserAccountName":"jmac"
+	 }
+	},
+        {"roleUserId":67890,
+         "user":{
+           "UserId":101,
+           "UserAccountName":"jdoe"
+         }
+        }
+  ]
+ },
+ {
+  "RoleId":112,
+  "RoleName":"Developers",
+  "RoleType":"DB",
+  "members":[
+        {"roleUserId":34567,
+         "user":{
+           "UserId":100,
+           "UserAccountName":"jmac"
+         } 
+        },
+        {"roleUserId":67890,
+         "user":{
+           "UserId":102,
+           "UserAccountName":"jsmith"
+         }
+        }
+  ]
  }
+ ],
+ "CSIuser":[
+ {
+	{
+           "UserId":100,
+           "UserAccountName":"jmac",
+	   "UserFirstName":"Julius",
+	   "UserLastName":"Mac"	 
+	},
+	{
+           "UserId":101,
+           "UserAccountName":"jdoe",	 
+           "UserFirstName":"John",
+           "UserLastName":"Doe"
+	},	
+	{
+           "UserId":102,
+           "UserAccountName":"jsmith",	 	
+           "UserFirstName":"Joseph",
+           "UserLastName":"Smith"
+	}
+ }
+ ]
 }
