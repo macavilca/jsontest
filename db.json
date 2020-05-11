@@ -104,19 +104,22 @@
            "UserId":100,
            "UserAccountName":"jmac",
 	   "UserFirstName":"Julius",
-	   "UserLastName":"Mac"	 
+	   "UserLastName":"Mac",	 
+	   "RoleId":[111,112]
 	},
 	{
            "UserId":101,
            "UserAccountName":"jdoe",	 
            "UserFirstName":"John",
-           "UserLastName":"Doe"
+           "UserLastName":"Doe",
+	   "RoleId":[111]
 	},	
 	{
            "UserId":102,
            "UserAccountName":"jsmith",	 	
            "UserFirstName":"Joseph",
            "UserLastName":"Smith"
+           "RoleId":[112]
 	}
  ]
 
