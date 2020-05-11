@@ -100,7 +100,6 @@
  },
  "CSIuser":{
  "CSIusers":[
- {
 	{
            "UserId":100,
            "UserAccountName":"jmac",
@@ -119,7 +118,6 @@
            "UserFirstName":"Joseph",
            "UserLastName":"Smith"
 	}
- }
  ]
 }
 }
