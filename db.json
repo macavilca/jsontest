@@ -118,7 +118,7 @@
            "UserId":102,
            "UserAccountName":"jsmith",	 	
            "UserFirstName":"Joseph",
-           "UserLastName":"Smith"
+           "UserLastName":"Smith",
            "RoleId":[112]
 	}
  ]
