@@ -56,8 +56,8 @@
     }
   ]
  },
- "CSIrole":{
-  "CSIroles":[
+ "CSIrole":
+  [
   {
   "RoleId":111,
   "RoleName":"Tester",
@@ -96,8 +96,8 @@
         }
   ]
  }
- ]
- },
+ ],
+ 
  "CSIuser":
  [
 	{
