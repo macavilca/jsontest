@@ -1,35 +1,5 @@
 {
   "Users": [
-    {
-      "SybaseLogin": "jmac",
-      "FullName": "Julio Mac",
-      "PermissionGroups": [
-         {"Value":"Office_Read"}
-      ]
-    },
-    {
-      "SybaseLogin": "jsmith",
-      "FullName": "Joe Smith",
-      "PermissionGroups": [
-         {"Value":"Office_Read"},
-         {"Value":"Office_Write"},
-         {"Value":"Office_Execute"}
-      ]
-    },
-    {
-      "SybaseLogin": "jdoe",
-      "FullName": "John Doe",
-      "PermissionGroups": [
-         {"Value":"Office_Read"},
-         {"Value":"Office_Write"}
-      ]
-    }
-  ],
-  "token": {
-    "token": "asldkfjasdkiasdlkfal;sasdfkahgadhgafdhgahdfgueqrhgkjdfnkndsfjkhadjfkghalkjla;skjfas;f=="
-  },
-  "UsersAlt":{
-  "Users": [
     { 
       "SybaseLogin": "jmac",
       "FullName": "Julio Mac",
