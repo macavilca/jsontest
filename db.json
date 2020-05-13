@@ -121,6 +121,37 @@
            "UserLastName":"Smith",
            "RoleId":[112]
 	}
+ ],
+"personnel":{
+ "MessageId":"9073eb13-09e7-454a-a233d3ce9f",
+ "PayloadId":null,
+ "IsProcessed":false
+ },
+"personnelreport":{
+ "MessageId":"9073eb13-09e7-454a-a233d3ce9f",
+ "PayloadId":"abacadaba",
+ "IsProcessed":true
+},
+"personnelreportabacadaba":[
+{
+ "Id":1001,
+ "Name":"jdoe",
+ "SecurityGroups":[
+ {"Id":10,
+  "Name":"Support Level 1"},
+ {"Id":11,
+  "Name":"Support Level 3"}
  ]
-
+},
+{
+ "Id":1002,
+ "Name":"jmac",
+ "SecurityGroups":[
+ {"Id":12,
+  "Name":"Support Level 2"},
+ {"Id":13,
+  "Name":"Support Level 4"}
+ ]
+}
+]
 }
