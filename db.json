@@ -71,12 +71,12 @@
  "IsProcessed":false
  },
 "personnelreport":{
- "MessageId":"9073eb13-09e7-454a-a233d3ce9f",
+ "MessageId":"9073eb13",
  "PayloadId":"abacadaba",
  "IsProcessed":true
 },
-"personnelreport9073eb13-09e7-454a-a233d3ce9f":{
- "MessageId":"9073eb13-09e7-454a-a233d3ce9f",
+"personnelreport9073eb13":{
+ "MessageId":"9073eb13",
  "PayloadId":"abacadaba",
  "IsProcessed":true
 },
