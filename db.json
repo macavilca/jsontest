@@ -6,34 +6,53 @@
            "UserAccountName":"jmac",
 	   "UserFirstName":"Julius",
 	   "UserLastName":"Mac",	 
-	   "RoleId":[1001,1002]
+	   "RoleId":[111,112]
 	},
 	{
            "UserId":101,
            "UserAccountName":"jdoe",	 
            "UserFirstName":"John",
            "UserLastName":"Doe",
-	   "RoleId":[1001]
+	   "RoleId":[111]
 	},	
 	{
            "UserId":102,
            "UserAccountName":"jsmith",	 	
            "UserFirstName":"Joseph",
            "UserLastName":"Smith",
-           "RoleId":[1002]
+           "RoleId":[112]
 	}
  ],
-"CSIrole":
- [
-  {
-  "RoleId":1001,
-  "RoleName":"Tester",
-  "RoleType":"DB"
-  },
-  {
-  "RoleId":1002,
-  "RoleName":"Developers",
-  "RoleType":"DB"
-  }
+"personnel":{
+ "MessageId":"9073eb13",
+ "PayloadId":null,
+ "IsProcessed":false
+ },
+"personnelreport9073eb13":{
+ "MessageId":"9073eb13",
+ "PayloadId":null,
+ "IsProcessed":true
+},
+"personnelreportabacadaba":[
+{
+ "Id":1001,
+ "Name":"jdoe",
+ "SecurityGroups":[
+ {"Id":10,
+  "Name":"Support Level 1"},
+ {"Id":11,
+  "Name":"Support Level 3"}
  ]
+},
+{
+ "Id":1002,
+ "Name":"jmac",
+ "SecurityGroups":[
+ {"Id":12,
+  "Name":"Support Level 2"},
+ {"Id":13,
+  "Name":"Support Level 4"}
+ ]
+}
+]
 }
