@@ -3,23 +3,23 @@
  [
 	{
            "UserId":100,
-           "UserAccountName":"jmac",
-	   "UserFirstName":"Julius",
-	   "UserLastName":"Mac",	 
+           "UserAccountName":"juan.do",
+	   "UserFirstName":"Juan",
+	   "UserLastName":"Do",	 
 	   "RoleId":[111,112]
 	},
 	{
            "UserId":101,
-           "UserAccountName":"jdoe",	 
+           "UserAccountName":"john.doe",	 
            "UserFirstName":"John",
            "UserLastName":"Doe",
 	   "RoleId":[111]
 	},	
 	{
            "UserId":102,
-           "UserAccountName":"jsmith",	 	
-           "UserFirstName":"Joseph",
-           "UserLastName":"Smith",
+           "UserAccountName":"mike.brown",	 	
+           "UserFirstName":"Michael",
+           "UserLastName":"Brown",
            "RoleId":[112]
 	}
  ],
